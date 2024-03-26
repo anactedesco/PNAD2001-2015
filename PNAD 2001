@@ -99,4 +99,4 @@ bysort mulher_ chefe_: tab ocup_ ano [fweight = peso]
 
 keep ano_ uf_ mulher_ peso_ rendatrab_ rendatotal rendapc cor_ idade_ condfamilia_ chefe_ edu_ edu2_ trabdom_ trabdom_c filhos_ filhos14menos_ maefil14menos_ filmas_ filfem_ morcas_ ocup_ ativas_ 
 
-save "C:\Users\ana\2001\Dados\teste2019", replace // lugar do computador em que os dados serão salvos
+save "C:\Users\ana\2001\Resultados\teste2001", replace // lugar do computador em que os dados serão salvos
